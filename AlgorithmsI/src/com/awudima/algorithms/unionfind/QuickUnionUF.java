@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.awudima.algorithms.dynmaicconnectivity;
+package com.awudima.algorithms.unionfind;
 
 /**
  * @author Kemele M. Endris
@@ -63,6 +63,7 @@ public class QuickUnionUF {
 		int j = id[q];
 		id[i] = j;
 	}
+	
 	/**
 	 * test client
 	 * @param args

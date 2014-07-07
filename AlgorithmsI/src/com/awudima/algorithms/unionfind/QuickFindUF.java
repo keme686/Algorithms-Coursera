@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.awudima.algorithms.dynmaicconnectivity;
+package com.awudima.algorithms.unionfind;
 
 /**
  * @author Kemele M. Endris
